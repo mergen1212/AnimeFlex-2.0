@@ -8,5 +8,6 @@
 	<title>Anime</title>
 	<meta name="description" content="Anime innformation" />
 </svelte:head>
+
 <Header />
 {@render children()}
